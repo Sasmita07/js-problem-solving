@@ -10,3 +10,6 @@ https://github.com/Sasmita07/js-problem-solving/blob/execute-tasks-parallel/excu
 
 Run node get-log-base2-values.js
 node excute-parallel.js
+
+All pattern problem series
+https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
